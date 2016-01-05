@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a05ca12a-61fe-4078-afac-1e66e64ccaa8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/_40font-face/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/_40font-face/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.eot" afterPath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.eot@" afterPath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.eot@" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.ttf" afterPath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.woff" afterPath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/css/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/css/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/dropzone/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/dropzone/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/dropzone/deps/emitter/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/dropzone/deps/emitter/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/dropzone/lib/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/dropzone/lib/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/images/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/Thumbs.db" afterPath="$PROJECT_DIR$/public/Admin/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/_16.png" afterPath="$PROJECT_DIR$/public/Admin/images/_16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/_32.png" afterPath="$PROJECT_DIR$/public/Admin/images/_32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/_counter.png" afterPath="$PROJECT_DIR$/public/Admin/images/_counter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/_counter2.png" afterPath="$PROJECT_DIR$/public/Admin/images/_counter2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/_z.jpg" afterPath="$PROJECT_DIR$/public/Admin/images/_z.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/asc.gif" afterPath="$PROJECT_DIR$/public/Admin/images/asc.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/bg.gif" afterPath="$PROJECT_DIR$/public/Admin/images/bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/check-big.png" afterPath="$PROJECT_DIR$/public/Admin/images/check-big.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/check-small.png" afterPath="$PROJECT_DIR$/public/Admin/images/check-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/checkbox-retina.png" afterPath="$PROJECT_DIR$/public/Admin/images/checkbox-retina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/checkbox.png" afterPath="$PROJECT_DIR$/public/Admin/images/checkbox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/desc.gif" afterPath="$PROJECT_DIR$/public/Admin/images/desc.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/dropzone-retina.png" afterPath="$PROJECT_DIR$/public/Admin/images/dropzone-retina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/dropzone.png" afterPath="$PROJECT_DIR$/public/Admin/images/dropzone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/empty.png" afterPath="$PROJECT_DIR$/public/Admin/images/empty.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/jquery.wysiwyg-retina.png" afterPath="$PROJECT_DIR$/public/Admin/images/jquery.wysiwyg-retina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/jquery.wysiwyg.png" afterPath="$PROJECT_DIR$/public/Admin/images/jquery.wysiwyg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/loading-retina.gif" afterPath="$PROJECT_DIR$/public/Admin/images/loading-retina.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/loading.gif" afterPath="$PROJECT_DIR$/public/Admin/images/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/mobile-dashboard.png" afterPath="$PROJECT_DIR$/public/Admin/images/mobile-dashboard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/mobile-stats.png" afterPath="$PROJECT_DIR$/public/Admin/images/mobile-stats.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/spritemap.png" afterPath="$PROJECT_DIR$/public/Admin/images/spritemap.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/spritemap_402x.png" afterPath="$PROJECT_DIR$/public/Admin/images/spritemap_402x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/uiface1.png" afterPath="$PROJECT_DIR$/public/Admin/images/uiface1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/uiface2.png" afterPath="$PROJECT_DIR$/public/Admin/images/uiface2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/uiface3.png" afterPath="$PROJECT_DIR$/public/Admin/images/uiface3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/images/uiface4.png" afterPath="$PROJECT_DIR$/public/Admin/images/uiface4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/js/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/lib/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/lib/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/broken.png" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/broken.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/favicon.ico" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/twitter.png" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/images/twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/js/Descr.WD3" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/js/Descr.WD3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Laravel.iml" afterPath="$PROJECT_DIR$/.idea/Laravel.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blade.xml" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Admin.php" afterPath="$PROJECT_DIR$/app/Admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.svg" afterPath="$PROJECT_DIR$/public/Admin/_40font-face/entypo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/css/dropzone.css" afterPath="$PROJECT_DIR$/public/Admin/css/dropzone.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/css/ie.css" afterPath="$PROJECT_DIR$/public/Admin/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/css/lt-ie-9.css" afterPath="$PROJECT_DIR$/public/Admin/css/lt-ie-9.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/css/style.css" afterPath="$PROJECT_DIR$/public/Admin/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/css/ui.css" afterPath="$PROJECT_DIR$/public/Admin/css/ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/css/wysiwyg.css" afterPath="$PROJECT_DIR$/public/Admin/css/wysiwyg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/dropzone/deps/emitter/index.js" afterPath="$PROJECT_DIR$/public/Admin/dropzone/deps/emitter/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/dropzone/index.js" afterPath="$PROJECT_DIR$/public/Admin/dropzone/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/dropzone/lib/dropzone.js" afterPath="$PROJECT_DIR$/public/Admin/dropzone/lib/dropzone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/custom.js" afterPath="$PROJECT_DIR$/public/Admin/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/cycle.js" afterPath="$PROJECT_DIR$/public/Admin/js/cycle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/dropzone.js" afterPath="$PROJECT_DIR$/public/Admin/js/dropzone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/flot-graphs.js" afterPath="$PROJECT_DIR$/public/Admin/js/flot-graphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/flot-pie.js" afterPath="$PROJECT_DIR$/public/Admin/js/flot-pie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/flot-time.js" afterPath="$PROJECT_DIR$/public/Admin/js/flot-time.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/flot.js" afterPath="$PROJECT_DIR$/public/Admin/js/flot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/flot.resize.js" afterPath="$PROJECT_DIR$/public/Admin/js/flot.resize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/jquery.checkbox.min.js" afterPath="$PROJECT_DIR$/public/Admin/js/jquery.checkbox.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/jquery.tablesorter.min.js" afterPath="$PROJECT_DIR$/public/Admin/js/jquery.tablesorter.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/jquery.wysiwyg.js" afterPath="$PROJECT_DIR$/public/Admin/js/jquery.wysiwyg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/wysiwyg.image.js" afterPath="$PROJECT_DIR$/public/Admin/js/wysiwyg.image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/wysiwyg.link.js" afterPath="$PROJECT_DIR$/public/Admin/js/wysiwyg.link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/js/wysiwyg.table.js" afterPath="$PROJECT_DIR$/public/Admin/js/wysiwyg.table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/lib/dropzone.js" afterPath="$PROJECT_DIR$/public/Admin/lib/dropzone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/ie7.css" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/ie7.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/ie8.css" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/ie8.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/style.css" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/js/jQuery.js" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/js/jQuery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Admin/themes/klevermedia/js/twitterFeed.js" afterPath="$PROJECT_DIR$/public/Admin/themes/klevermedia/js/twitterFeed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lichaohui.txt" afterPath="$PROJECT_DIR$/public/lichaohui.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/blog-new.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/blog-new.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/blog-table.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/blog-table.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/blog-timeline.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/blog-timeline.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/comments-timeline.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/comments-timeline.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/dashboard.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/dashboard.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/files-upload.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/files-upload.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/files.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/files.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/icon-fonts.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/icon-fonts.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/page-new.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/page-new.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/page-timeline.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/page-timeline.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/pages-table.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/pages-table.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/statistics.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/statistics.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/ui-elements.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/ui-elements.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/users.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/users.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/wo.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/wo.blade.php" />
+    </list>
+    <ignored path="Laravel.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Laravel" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/Admin/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39473686">
+              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Admin.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/wo.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/index.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="373" />
+    <option name="y" value="119" />
+    <option name="width" value="1193" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xdh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xdh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xdh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/Admin" />
+      <recent name="$PROJECT_DIR$/resources/views/Admin" />
+      <recent name="$PROJECT_DIR$/public/Admin/js" />
+      <recent name="$PROJECT_DIR$/public/Admin/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/vendor" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05ca12a-61fe-4078-afac-1e66e64ccaa8" name="Default" comment="" />
+      <created>1452001113886</created>
+      <option name="number" value="Default" />
+      <updated>1452001113886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="373" y="119" width="1193" height="704" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27074602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.37699682" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="74" y="316" width="1292" height="236" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12300319" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/User.php</url>
+          <line>4</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/wo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.75">
+          <caret line="33" column="55" selection-start-line="14" selection-start-column="3" selection-end-line="33" selection-end-column="55" />
+          <folding>
+            <element signature="e#23#59#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31578946">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Admin/css/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65789473">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Admin/js/wysiwyg.image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/wo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.078947365">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/files.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23684211">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39473686">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

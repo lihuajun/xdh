@@ -12,12 +12,16 @@
 */
 
 Route::get('/', function () {
+<<<<<<< HEAD
     return view('Admin/index');
 });
 
 Route::any('/Admin/{sub}', function ($sub) {
 	//return 'good';
     return view("Admin.".$sub);
+=======
+    return view('Admin.index');
+>>>>>>> 1c2ea552f0de07e30af535ef5e3377d34861a2d6
 });
 
 
